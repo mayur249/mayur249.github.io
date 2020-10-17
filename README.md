@@ -1,8 +1,6 @@
-(https://mayur249.github.io/)
-
 # [Portfolio](https://mayur249.github.io/)
 
-This Repo Contains My Portfolio Website which was created using HTML, CSS, JS.
+This Repo Contains my Portfolio Website which is created using HTML, CSS, JS.
 
 <p align="center">
     Here's my portfolio!<br/><br/>
@@ -18,7 +16,7 @@ This Repo Contains My Portfolio Website which was created using HTML, CSS, JS.
 [HTML5](https://developers.google.com/web/)  
 [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 [JavaScript](https://www.javascript.com/)  
-[GitHub Pages](https://pages.github.com/) for hosting  
+[GitHub Pages](https://pages.github.com/) For Hosting  
 [Git](https://git-scm.com/) for source control
 
 To view the live demo, [click here](https://mayur249.github.io/)
